@@ -12,12 +12,12 @@
 ## Day-2
 01/04/21
 6 problems
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
+6. [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
+7. [Palindrome Linked List](https://leetcode.com/explore/challenge/card/april-leetcoding-challenge-2021/593/week-1-april-1st-april-7th/3693/)
+8. [Subsets](https://leetcode.com/problems/subsets/)
+9. [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
+10. [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
+11. [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 
 ## Day-3
 02/04/21
