@@ -45,5 +45,5 @@
 3 problems
 
 21. [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/)
-22. [Find Center of Star Graph](ttps://leetcode.com/problems/find-center-of-star-graph/)
+22. [Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/)
 23. [01 Matrix](https://leetcode.com/problems/01-matrix/)
