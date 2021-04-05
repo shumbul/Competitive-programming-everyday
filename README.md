@@ -45,5 +45,15 @@
 3 problems
 
 21. [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/)
-22. [Find Center of Star Graph](ttps://leetcode.com/problems/find-center-of-star-graph/)
+22. [Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/)
 23. [01 Matrix](https://leetcode.com/problems/01-matrix/)
+
+## Day-6
+05/03/21
+5 probelms
+
+24. [First Bad Version](https://leetcode.com/problems/first-bad-version/)
+25. [Jewels and Stones](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3317/)
+26. [Ransom Note](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3318/)
+27. [Number Complement](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3319/)
+28. [First Unique Character in a String](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3320/)
