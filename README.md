@@ -64,3 +64,13 @@
 
 29. [Longest Increasing Subsequence](https://www.pepcoding.com/resources/data-structures-and-algorithms-in-java-levelup/dynamic-programming/lis-official/ojquestion)
 30. [Maximum Sum Increasing Subsequence](https://www.pepcoding.com/resources/data-structures-and-algorithms-in-java-levelup/dynamic-programming/msis-official/ojquestion)
+
+## Day-8
+26/04/21
+3 probelms
+
+31. [Longest Bitonic Subsequence](https://www.pepcoding.com/resources/data-structures-and-algorithms-in-java-levelup/dynamic-programming/lbs-official/ojquestion)
+
+32. [Maximum Non-overlapping Bridges](https://www.pepcoding.com/resources/data-structures-and-algorithms-in-java-levelup/dynamic-programming/max-non-overlapping-bridges-official/ojquestion)
+
+33. [Russian Doll Envelopes](https://www.pepcoding.com/resources/data-structures-and-algorithms-in-java-levelup/dynamic-programming/russian-doll-envelopes-official/ojquestion)
