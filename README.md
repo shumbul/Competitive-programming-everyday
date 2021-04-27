@@ -50,7 +50,7 @@
 
 ## Day-6
 05/03/21
-5 probelms
+5 problems
 
 24. [First Bad Version](https://leetcode.com/problems/first-bad-version/)
 25. [Jewels and Stones](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3317/)
@@ -60,17 +60,27 @@
 
 ## Day-7
 25/04/21
-2 probelms
+2 problems
 
 29. [Longest Increasing Subsequence](https://www.pepcoding.com/resources/data-structures-and-algorithms-in-java-levelup/dynamic-programming/lis-official/ojquestion)
 30. [Maximum Sum Increasing Subsequence](https://www.pepcoding.com/resources/data-structures-and-algorithms-in-java-levelup/dynamic-programming/msis-official/ojquestion)
 
 ## Day-8
 26/04/21
-3 probelms
+3 problems
 
 31. [Longest Bitonic Subsequence](https://www.pepcoding.com/resources/data-structures-and-algorithms-in-java-levelup/dynamic-programming/lbs-official/ojquestion)
 
 32. [Maximum Non-overlapping Bridges](https://www.pepcoding.com/resources/data-structures-and-algorithms-in-java-levelup/dynamic-programming/max-non-overlapping-bridges-official/ojquestion)
 
 33. [Russian Doll Envelopes](https://www.pepcoding.com/resources/data-structures-and-algorithms-in-java-levelup/dynamic-programming/russian-doll-envelopes-official/ojquestion)
+
+## Day-9
+27/04/21
+3 problems
+
+34. [Round B 2021 - Kick Start 2021-Increasing Substring](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000435a5b/000000000077a882)
+
+35. [Round B 2021 - Kick Start 2021-Longest Progression](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000435a5b/000000000077a3a5)
+
+36. [Review Site](https://codeforces.com/contest/1511/problem/A)
