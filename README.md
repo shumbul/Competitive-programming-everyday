@@ -84,3 +84,11 @@
 35. [Round B 2021 - Kick Start 2021-Longest Progression](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000435a5b/000000000077a3a5)
 
 36. [Review Site](https://codeforces.com/contest/1511/problem/A)
+
+## Day-10
+28/04/21
+2 problems
+
+37. [Subarray with given sum](https://practice.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1#)
+
+38. [Maximum Index](https://practice.geeksforgeeks.org/problems/maximum-index-1587115620/1#)
