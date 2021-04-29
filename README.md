@@ -70,9 +70,7 @@
 3 problems
 
 31. [Longest Bitonic Subsequence](https://www.pepcoding.com/resources/data-structures-and-algorithms-in-java-levelup/dynamic-programming/lbs-official/ojquestion)
-
 32. [Maximum Non-overlapping Bridges](https://www.pepcoding.com/resources/data-structures-and-algorithms-in-java-levelup/dynamic-programming/max-non-overlapping-bridges-official/ojquestion)
-
 33. [Russian Doll Envelopes](https://www.pepcoding.com/resources/data-structures-and-algorithms-in-java-levelup/dynamic-programming/russian-doll-envelopes-official/ojquestion)
 
 ## Day-9
@@ -80,9 +78,7 @@
 3 problems
 
 34. [Round B 2021 - Kick Start 2021-Increasing Substring](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000435a5b/000000000077a882)
-
 35. [Round B 2021 - Kick Start 2021-Longest Progression](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000435a5b/000000000077a3a5)
-
 36. [A. Review Site](https://codeforces.com/contest/1511/problem/A)
 
 ## Day-10
@@ -90,7 +86,6 @@
 2 problems
 
 37. [Subarray with given sum](https://practice.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1#)
-
 38. [Maximum Index](https://practice.geeksforgeeks.org/problems/maximum-index-1587115620/1#)
 
 ## Day-11
@@ -98,7 +93,5 @@
 3 problems
 
 39. [B. GCD Length](https://codeforces.com/contest/1511/problem/B)
-
 40. [C. Yet Another Card Deck](https://codeforces.com/contest/1511/problem/C)
-
 41. [D. Min Cost String](https://codeforces.com/contest/1511/problem/D)
