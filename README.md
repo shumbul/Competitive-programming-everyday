@@ -95,8 +95,5 @@
 39. [B. GCD Length](https://codeforces.com/contest/1511/problem/B)
 40. [C. Yet Another Card Deck](https://codeforces.com/contest/1511/problem/C)
 41. [D. Min Cost String](https://codeforces.com/contest/1511/problem/D)
-<<<<<<< HEAD
 42. [A. Red and Blue Beans](https://codeforces.com/contest/1519/problem/A)
 43. [B. The Cake Is a Lie](https://codeforces.com/contest/1519/problem/B)
-=======
->>>>>>> 6e57d9bb00abe6afff7ba399d58c33e6e31671c1
