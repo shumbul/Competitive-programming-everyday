@@ -97,3 +97,12 @@
 41. [D. Min Cost String](https://codeforces.com/contest/1511/problem/D)
 42. [A. Red and Blue Beans](https://codeforces.com/contest/1519/problem/A)
 43. [B. The Cake Is a Lie](https://codeforces.com/contest/1519/problem/B)
+
+## Day-12
+30/04/21
+4 problems
+
+44. [C. The Sports Festival](https://codeforces.com/contest/1509/problem/C)
+45. [Mussadi lal and stairs](https://www.codechef.com/problems/JAM11)
+46. [Intersection of Two Linked Lists](https://leetcode.com/explore/featured/card/march-leetcoding-challenge-2021/588/week-1-march-1st-march-7th/3660/)
+47. [Average of Levels in Binary Tree](https://leetcode.com/explore/featured/card/march-leetcoding-challenge-2021/588/week-1-march-1st-march-7th/3661/)
