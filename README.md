@@ -120,3 +120,11 @@
 
 50. [BFS of graph](https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1)
 51. [DFS of Graph](https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1)
+
+## Day-15
+06/05/21
+2 problems
+
+52. [Optimal Strategy For A Game](https://practice.geeksforgeeks.org/problems/optimal-strategy-for-a-game-1587115620/1#)
+53. [Increasing Path in Matrix](https://www.interviewbit.com/problems/increasing-path-in-matrix/)
+
