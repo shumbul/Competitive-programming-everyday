@@ -128,3 +128,12 @@
 52. [Optimal Strategy For A Game](https://practice.geeksforgeeks.org/problems/optimal-strategy-for-a-game-1587115620/1#)
 53. [Increasing Path in Matrix](https://www.interviewbit.com/problems/increasing-path-in-matrix/)
 
+## Day-16
+08/05/21
+5 problems
+
+54. [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)
+55. [Delete Operation for Two Strings](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge-2021/598/week-1-may-1st-may-7th/3734/)
+56. [Jump Game II](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge-2021/598/week-1-may-1st-may-7th/3732/)
+57. [Non-decreasing Array](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge-2021/598/week-1-may-1st-may-7th/3731/)
+58. [Running Sum of 1d Array](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge-2021/598/week-1-may-1st-may-7th/3730/)
