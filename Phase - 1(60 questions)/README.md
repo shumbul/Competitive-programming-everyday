@@ -141,7 +141,7 @@
 
 ## Day-17
 09/05/21
-3 problems
+2 problems
 
 59. [Minimum Difference Between Largest and Smallest Value in Three Moves](https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/)
 60. [Super Palindromes](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge-2021/599/week-2-may-8th-may-14th/3736/)
