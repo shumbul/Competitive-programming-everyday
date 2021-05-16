@@ -14,3 +14,11 @@
 
 4. [Kadane's Algorithm](https://practice.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1#)
 5. [Trie | (Insert and Search)](https://practice.geeksforgeeks.org/problems/trie-insert-and-search0651/1#)
+
+## Day-3
+16/05/21
+3 problems
+
+6. [Word Break](https://leetcode.com/problems/word-break/submissions/)
+7. [Sort an array according to the other](https://practice.geeksforgeeks.org/problems/relative-sorting4323/1#)
+8. [Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array)
