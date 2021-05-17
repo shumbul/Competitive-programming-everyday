@@ -22,3 +22,10 @@
 6. [Word Break](https://leetcode.com/problems/word-break/submissions/)
 7. [Sort an array according to the other](https://practice.geeksforgeeks.org/problems/relative-sorting4323/1#)
 8. [Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array)
+
+## Day-4
+17/05/21
+2 problems
+
+9. [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)
+10. [Pow(x, n)](https://leetcode.com/problems/powx-n/)
