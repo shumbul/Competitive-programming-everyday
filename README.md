@@ -28,4 +28,11 @@
 2 problems
 
 9. [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)
-10. [Pow(x, n)](https://leetcode.com/problems/powx-n/)
+10. [Pow(x, n])(https://leetcode.com/problems/powx-n/)
+
+## Day-5
+19/05/21
+2 problems
+
+11. [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/submissions/)
+12. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
