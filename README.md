@@ -36,3 +36,10 @@
 
 11. [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/submissions/)
 12. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+
+## Day-6
+20/05/21
+2 problems
+
+13. [Parenthesis Checker](https://practice.geeksforgeeks.org/problems/parenthesis-checker2744/1)
+14. [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/submissions/)
