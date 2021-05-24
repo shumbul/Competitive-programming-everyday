@@ -43,3 +43,11 @@
 
 13. [Parenthesis Checker](https://practice.geeksforgeeks.org/problems/parenthesis-checker2744/1)
 14. [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/submissions/)
+
+## Day-7
+24/05/21
+3 problems
+
+15. [Countdown](https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff43/00000000003380d2)
+16. [Decode String](https://leetcode.com/problems/decode-string)
+17. [Valid Anagram](https://leetcode.com/problems/valid-anagram/submissions/)
