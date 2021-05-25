@@ -51,3 +51,11 @@
 15. [Countdown](https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff43/00000000003380d2)
 16. [Decode String](https://leetcode.com/problems/decode-string)
 17. [Valid Anagram](https://leetcode.com/problems/valid-anagram/submissions/)
+
+## Day-8
+25/05/21
+3 problems
+
+18. [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences)
+19. [Encoding Message](https://www.codechef.com/WICP2002/problems/ENCOMS)
+20. [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/submissions/)
