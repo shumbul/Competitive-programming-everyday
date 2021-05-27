@@ -1,4 +1,5 @@
 # Competitive-programming-everyday
+### Phase - 1: 40 days, 60 question
 
 ## Day-1
 31/03/21
