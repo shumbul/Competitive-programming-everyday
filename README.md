@@ -59,3 +59,11 @@
 18. [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences)
 19. [Encoding Message](https://www.codechef.com/WICP2002/problems/ENCOMS)
 20. [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/submissions/)
+
+## Day-8
+27/05/21
+3 problems
+
+21. [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
+22. [Jump Game II](https://leetcode.com/problems/jump-game-ii/)
+23. [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
