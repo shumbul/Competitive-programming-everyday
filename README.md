@@ -60,10 +60,20 @@
 19. [Encoding Message](https://www.codechef.com/WICP2002/problems/ENCOMS)
 20. [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/submissions/)
 
-## Day-8
+## Day-9
 27/05/21
 3 problems
 
 21. [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
 22. [Jump Game II](https://leetcode.com/problems/jump-game-ii/)
 23. [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
+
+## Day-10
+28/05/21
+5 problems
+
+24. [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
+25. [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)
+26. [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)
+27. [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
+28. [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/)
