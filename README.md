@@ -77,3 +77,11 @@
 26. [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)
 27. [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
 28. [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/)
+
+## Day-11
+29/05/21
+3 problems
+
+29. [Turn on the bulbs](https://www.interviewbit.com/test)
+30. [Edit Distance](https://practice.geeksforgeeks.org/problems/edit-distance3702/1)
+31. [Minimum Operations to Make Array Equal](https://leetcode.com/problems/minimum-operations-to-make-array-equal/)
