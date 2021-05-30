@@ -85,3 +85,11 @@
 29. [Turn on the bulbs](https://www.interviewbit.com/test)
 30. [Edit Distance](https://practice.geeksforgeeks.org/problems/edit-distance3702/1)
 31. [Minimum Operations to Make Array Equal](https://leetcode.com/problems/minimum-operations-to-make-array-equal/)
+
+
+## Day-12
+30/05/21
+2 problems
+
+32. [K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/)
+33. [Majority Element](https://leetcode.com/problems/majority-element/)
