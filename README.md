@@ -89,7 +89,9 @@
 
 ## Day-12
 30/05/21
-2 problems
+4 problems
 
 32. [K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/)
 33. [Majority Element](https://leetcode.com/problems/majority-element/)
+34. [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/)
+35. [Jump Game](https://leetcode.com/problems/jump-game/)
