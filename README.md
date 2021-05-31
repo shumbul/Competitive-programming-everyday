@@ -95,3 +95,12 @@
 33. [Majority Element](https://leetcode.com/problems/majority-element/)
 34. [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/)
 35. [Jump Game](https://leetcode.com/problems/jump-game/)
+
+
+## Day-13
+31/05/21
+3 problems
+
+36. [Jump Game III](https://leetcode.com/problems/jump-game-iii/)
+37. [0-1 Knapsack](https://www.interviewbit.com/problems/0-1-knapsack/)
+38. [Flip Array](https://www.interviewbit.com/problems/flip-array/)
