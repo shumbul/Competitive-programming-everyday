@@ -104,3 +104,11 @@
 36. [Jump Game III](https://leetcode.com/problems/jump-game-iii/)
 37. [0-1 Knapsack](https://www.interviewbit.com/problems/0-1-knapsack/)
 38. [Flip Array](https://www.interviewbit.com/problems/flip-array/)
+
+## Day-14
+01/06/21
+3 problems
+
+39. [3 Sum](https://leetcode.com/problems/3sum/)
+40. [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
+41. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
