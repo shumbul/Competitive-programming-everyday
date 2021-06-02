@@ -112,3 +112,12 @@
 39. [3 Sum](https://leetcode.com/problems/3sum/)
 40. [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
 41. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+
+## Day-14
+02/06/21
+4 problems
+
+42. [Repeating Sub-Sequence](https://www.interviewbit.com/problems/repeating-subsequence/)
+43. [Distinct Subsequences](https://www.interviewbit.com/problems/distinct-subsequences/)
+44. [Scramble String](https://www.interviewbit.com/problems/scramble-string/)
+45. [Tushar's Birthday Party](https://www.interviewbit.com/problems/tushars-birthday-party/)
