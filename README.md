@@ -113,7 +113,7 @@
 40. [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
 41. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 
-## Day-14
+## Day-15
 02/06/21
 4 problems
 
@@ -121,3 +121,11 @@
 43. [Distinct Subsequences](https://www.interviewbit.com/problems/distinct-subsequences/)
 44. [Scramble String](https://www.interviewbit.com/problems/scramble-string/)
 45. [Tushar's Birthday Party](https://www.interviewbit.com/problems/tushars-birthday-party/)
+
+## Day-16
+03/06/21
+4 problems
+
+46. [Highest Product](https://www.interviewbit.com/problems/highest-product/)
+47. [Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/)
+48. [Rotate Image](https://leetcode.com/problems/rotate-image/)
