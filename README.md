@@ -129,3 +129,4 @@
 46. [Highest Product](https://www.interviewbit.com/problems/highest-product/)
 47. [Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/)
 48. [Rotate Image](https://leetcode.com/problems/rotate-image/)
+49. [Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/)
