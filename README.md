@@ -136,3 +136,4 @@
 2 problems
 
 50. [Length of Longest Subsequence](https://www.interviewbit.com/problems/length-of-longest-subsequence/)
+51. [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
