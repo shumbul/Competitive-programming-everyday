@@ -137,3 +137,10 @@
 
 50. [Length of Longest Subsequence](https://www.interviewbit.com/problems/length-of-longest-subsequence/)
 51. [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
+
+## Day-18
+05/06/21
+2 problems
+
+52. [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
+53. [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
