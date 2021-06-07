@@ -154,7 +154,8 @@
 
 ## Day-20
 07/06/21
-2 problems
+3 problems
 
 56. [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)
 57. [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/)
+58. [Min Cost Climbing Stairs](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge-2021/603/week-1-june-1st-june-7th/3770/)
