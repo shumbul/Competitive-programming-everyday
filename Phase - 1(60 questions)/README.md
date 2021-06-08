@@ -42,7 +42,7 @@
 20. [k-th Lexicographical String of All Happy Strings of Length n](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/)
 
 ## Day-5
-04/04/21 (Sunday)
+04/04/21
 3 problems
 
 21. [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/)
