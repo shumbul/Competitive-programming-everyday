@@ -1,4 +1,6 @@
 # Competitive-programming-everyday
+### Phase - 1: 40 days, 60 programs
+### Phase - 2: 29 days, 60 programs
 
 ## Day-1
 11/05/21
@@ -159,3 +161,10 @@
 56. [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)
 57. [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/)
 58. [Min Cost Climbing Stairs](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge-2021/603/week-1-june-1st-june-7th/3770/)
+
+## Day-21
+08/06/21
+2 problems
+
+59. [Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/)
+60. [Count Substrings That Differ by One Character](https://leetcode.com/problems/count-substrings-that-differ-by-one-character/)
