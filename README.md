@@ -18,3 +18,12 @@
 4. [Deletion Distance](https://www.pramp.com/challenge/61ojWAjLJbhob2nP2q1O)
 5. [Time Planner](https://www.pramp.com/challenge/3QnxW6xoPLTNl5jX5Lg1)
 6. [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)
+
+## Day-3
+13/06/21
+4 problems
+
+7. [Shifted Array Search](https://www.pramp.com/challenge/N5LYMbYzyOtbpovQoYPX)
+8. [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)
+9. [C - POW](https://atcoder.jp/contests/abc205/tasks/abc205_c)
+10. [D - Kth Excluded](https://atcoder.jp/contests/abc205/tasks/abc205_d)
