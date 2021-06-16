@@ -27,3 +27,11 @@
 8. [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)
 9. [C - POW](https://atcoder.jp/contests/abc205/tasks/abc205_c)
 10. [D - Kth Excluded](https://atcoder.jp/contests/abc205/tasks/abc205_d)
+
+## Day-4
+16/06/21
+3 problems
+
+11. [Grid Unique Paths](https://www.interviewbit.com/problems/grid-unique-paths/)
+12. [Remove Duplicates from Sorted Array](https://www.interviewbit.com/problems/remove-duplicates-from-sorted-array/)
+13. [Merge Two Sorted Lists II](https://www.interviewbit.com/problems/merge-two-sorted-lists-ii/)
