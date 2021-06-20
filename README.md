@@ -43,3 +43,12 @@
 14. [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/submissions/)
 15. [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/submissions/)
 16. [Rotate List](https://leetcode.com/problems/rotate-list/submissions/)
+
+## Day-6
+20/06/21
+4 problems
+
+17. [All permutations](https://codedrills.io/problems/all-permutations)
+18. [All valid balanced parenthesis](https://codedrills.io/problems/all-valid-balanced-parenthesis)
+19. [Average of Max Five Scores](https://codedrills.io/problems/average-of-max-five-scores)
+20. [Binary Sum](https://codedrills.io/problems/binary-sum)
