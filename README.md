@@ -55,7 +55,7 @@
 
 ## Day-7
 21/06/21
-3 problems
+2 problems
 
 21. [Kth Smallest Element In Tree](https://www.interviewbit.com/problems/kth-smallest-element-in-tree/)
-22. []()
+22. [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
