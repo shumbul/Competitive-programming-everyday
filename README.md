@@ -52,3 +52,10 @@
 18. [All valid balanced parenthesis](https://codedrills.io/problems/all-valid-balanced-parenthesis)
 19. [Average of Max Five Scores](https://codedrills.io/problems/average-of-max-five-scores)
 20. [Binary Sum](https://codedrills.io/problems/binary-sum)
+
+## Day-7
+21/06/21
+3 problems
+
+21. [Kth Smallest Element In Tree](https://www.interviewbit.com/problems/kth-smallest-element-in-tree/)
+22. []()
