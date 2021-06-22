@@ -60,3 +60,11 @@
 21. [Kth Smallest Element In Tree](https://www.interviewbit.com/problems/kth-smallest-element-in-tree/)
 22. [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 23. [2-Sum Binary Tree](https://www.interviewbit.com/problems/2sum-binary-tree/)
+
+## Day-8
+21/06/21
+3 problems
+
+24. [Height of Binary Tree](https://practice.geeksforgeeks.org/problems/height-of-binary-tree/1)
+25. [Count Leaves in Binary Tree](https://practice.geeksforgeeks.org/problems/count-leaves-in-binary-tree/1)
+26. [Mirror Tree](https://practice.geeksforgeeks.org/problems/mirror-tree/1#)
