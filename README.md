@@ -68,3 +68,11 @@
 24. [Height of Binary Tree](https://practice.geeksforgeeks.org/problems/height-of-binary-tree/1)
 25. [Count Leaves in Binary Tree](https://practice.geeksforgeeks.org/problems/count-leaves-in-binary-tree/1)
 26. [Mirror Tree](https://practice.geeksforgeeks.org/problems/mirror-tree/1#)
+
+## Day-9
+22/06/21
+3 problems
+
+27. [Largest Odd Number in String](https://leetcode.com/contest/weekly-contest-246/problems/largest-odd-number-in-string/)
+28. [The Number of Full Rounds You Have Played](https://leetcode.com/contest/weekly-contest-246/problems/the-number-of-full-rounds-you-have-played/)
+29. [Count Sub Islands](https://leetcode.com/contest/weekly-contest-246/problems/count-sub-islands/)
