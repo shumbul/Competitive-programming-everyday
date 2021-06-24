@@ -76,3 +76,11 @@
 27. [Largest Odd Number in String](https://leetcode.com/contest/weekly-contest-246/problems/largest-odd-number-in-string/)
 28. [The Number of Full Rounds You Have Played](https://leetcode.com/contest/weekly-contest-246/problems/the-number-of-full-rounds-you-have-played/)
 29. [Count Sub Islands](https://leetcode.com/contest/weekly-contest-246/problems/count-sub-islands/)
+
+## Day-10
+23/06/21
+3 problems
+
+30. [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
+31. [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
+32. [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
