@@ -79,8 +79,10 @@
 
 ## Day-10
 23/06/21
-3 problems
+5 problems
 
 30. [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
 31. [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
 32. [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
+33. [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
+34. [Maximum Score of a Good Subarray](https://leetcode.com/problems/maximum-score-of-a-good-subarray/)
