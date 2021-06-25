@@ -1,6 +1,6 @@
 # Competitive-programming-everyday
-### Phase - 1: 40 days, 60 programs
-### Phase - 2: 29 days, 60 programs
+### [Phase - 1](https://github.com/shumbul/Competitive-programming-everyday/tree/main/Phase%20-%201(60%20questions)) : 40 days, 60 programs
+### [Phase - 2](https://github.com/shumbul/Competitive-programming-everyday/tree/main/Phase%20-%202(60%20questions)) : 29 days, 60 programs
 
 
 ## Day-1
