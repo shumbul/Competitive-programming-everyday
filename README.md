@@ -1,6 +1,6 @@
 # Competitive-programming-everyday
-### [Phase - 1](https://github.com/shumbul/Competitive-programming-everyday/tree/main/Phase%20-%201(60%20questions)) : 40 days, 60 programs
-### [Phase - 2](https://github.com/shumbul/Competitive-programming-everyday/tree/main/Phase%20-%202(60%20questions)) : 29 days, 60 programs
+### Phase - 1: 40 days, 60 programs
+### Phase - 2: 29 days, 60 programs
 
 
 ## Day-1
@@ -86,3 +86,11 @@
 32. [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
 33. [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
 34. [Maximum Score of a Good Subarray](https://leetcode.com/problems/maximum-score-of-a-good-subarray/)
+
+## Day-11
+24/06/21
+3 problems
+
+35. [Redundant Connection](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge-2021/606/week-4-june-22nd-june-28th/3791/)
+36. [Employee Importance](https://leetcode.com/problems/employee-importance/)
+37. [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)
