@@ -94,3 +94,12 @@
 35. [Redundant Connection](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge-2021/606/week-4-june-22nd-june-28th/3791/)
 36. [Employee Importance](https://leetcode.com/problems/employee-importance/)
 37. [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)
+
+## Day-12
+25/06/21
+8 problems
+
+38. [Split a String Into the Max Number of Unique Substrings](https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/)
+39. [C. Modified GDC.cpp](https://codeforces.com/problemset/problem/75/C)
+40. [Remove One Element to Make the Array Strictly Increasing](https://leetcode.com/contest/biweekly-contest-55/problems/remove-one-element-to-make-the-array-strictly-increasing/)
+41. [Remove All Occurrences of a Substring](https://leetcode.com/contest/biweekly-contest-55/problems/remove-all-occurrences-of-a-substring/)
