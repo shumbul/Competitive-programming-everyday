@@ -107,10 +107,10 @@
 
 ## Day-13
 27/06/21
-4 problems
+5 problems
 
 43. [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)
 44. [Number of Wonderful Substrings](https://leetcode.com/contest/weekly-contest-247/problems/number-of-wonderful-substrings/)
 45. [Maximum Product Difference Between Two Pairs](https://leetcode.com/contest/weekly-contest-247/problems/maximum-product-difference-between-two-pairs/)
 46. [C++ classes](https://www.javatpoint.com/cpp-this-pointer)
-47. [Trees: Is This a Binary Search Tree?]()
+47. [Trees: Is This a Binary Search Tree?](https://www.hackerrank.com/challenges/ctci-is-binary-search-tree/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=trees)
