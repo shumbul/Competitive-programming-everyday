@@ -62,7 +62,7 @@
 23. [2-Sum Binary Tree](https://www.interviewbit.com/problems/2sum-binary-tree/)
 
 ## Day-8
-21/06/21
+22/06/21
 3 problems
 
 24. [Height of Binary Tree](https://practice.geeksforgeeks.org/problems/height-of-binary-tree/1)
@@ -70,7 +70,7 @@
 26. [Mirror Tree](https://practice.geeksforgeeks.org/problems/mirror-tree/1#)
 
 ## Day-9
-22/06/21
+23/06/21
 3 problems
 
 27. [Largest Odd Number in String](https://leetcode.com/contest/weekly-contest-246/problems/largest-odd-number-in-string/)
@@ -78,7 +78,7 @@
 29. [Count Sub Islands](https://leetcode.com/contest/weekly-contest-246/problems/count-sub-islands/)
 
 ## Day-10
-23/06/21
+24/06/21
 5 problems
 
 30. [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
@@ -88,7 +88,7 @@
 34. [Maximum Score of a Good Subarray](https://leetcode.com/problems/maximum-score-of-a-good-subarray/)
 
 ## Day-11
-24/06/21
+25/06/21
 3 problems
 
 35. [Redundant Connection](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge-2021/606/week-4-june-22nd-june-28th/3791/)
@@ -96,7 +96,7 @@
 37. [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)
 
 ## Day-12
-25/06/21
+26/06/21
 5 problems
 
 38. [Split a String Into the Max Number of Unique Substrings](https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/)
@@ -113,3 +113,4 @@
 44. [Number of Wonderful Substrings](https://leetcode.com/contest/weekly-contest-247/problems/number-of-wonderful-substrings/)
 45. [Maximum Product Difference Between Two Pairs](https://leetcode.com/contest/weekly-contest-247/problems/maximum-product-difference-between-two-pairs/)
 46. [C++ classes](https://www.javatpoint.com/cpp-this-pointer)
+47. [Trees: Is This a Binary Search Tree?]()
