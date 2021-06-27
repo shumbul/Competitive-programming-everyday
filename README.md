@@ -104,3 +104,12 @@
 40. [Remove One Element to Make the Array Strictly Increasing](https://leetcode.com/contest/biweekly-contest-55/problems/remove-one-element-to-make-the-array-strictly-increasing/)
 41. [Remove All Occurrences of a Substring](https://leetcode.com/contest/biweekly-contest-55/problems/remove-all-occurrences-of-a-substring/)
 42. [Maximum Alternating Subsequence Sum](https://leetcode.com/contest/biweekly-contest-55/problems/maximum-alternating-subsequence-sum/)
+
+## Day-13
+27/06/21
+4 problems
+
+43. [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)
+44. [Number of Wonderful Substrings](https://leetcode.com/contest/weekly-contest-247/problems/number-of-wonderful-substrings/)
+45. [Maximum Product Difference Between Two Pairs](https://leetcode.com/contest/weekly-contest-247/problems/maximum-product-difference-between-two-pairs/)
+46. [C++ classes](https://www.javatpoint.com/cpp-this-pointer)
