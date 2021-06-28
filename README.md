@@ -114,3 +114,11 @@
 45. [Maximum Product Difference Between Two Pairs](https://leetcode.com/contest/weekly-contest-247/problems/maximum-product-difference-between-two-pairs/)
 46. [C++ classes](https://www.javatpoint.com/cpp-this-pointer)
 47. [Trees: Is This a Binary Search Tree?](https://www.hackerrank.com/challenges/ctci-is-binary-search-tree/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=trees)
+
+## Day-14
+28/06/21
+3 problems
+
+48. [Distinct Numbers in Window](https://www.interviewbit.com/old/problems/distinct-numbers-in-window/)
+49. [LRU Cache](interviewbit.com/old/problems/lru-cache/)
+50. [N max pair combinations](https://www.interviewbit.com/old/problems/n-max-pair-combinations/)
