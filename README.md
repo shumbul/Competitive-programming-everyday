@@ -125,9 +125,11 @@
 
 ## Day-15
 29/06/21
-4 problems
+6 problems
 
 51. [Collecting Coins Sequel](https://binarysearch.com/problems/Collecting-Coins-Sequel)
 52. [Majority Vote](https://binarysearch.com/problems/Majority-Vote)
 53. [Trailing Zeros](https://binarysearch.com/problems/Trailing-Zeros)
 54. [Search for a Range](https://www.interviewbit.com/old/problems/search-for-a-range/)
+55. [First to Count to Target](https://binarysearch.com/problems/First-to-Count-to-Target)
+56. [Special Product List](https://binarysearch.com/problems/Special-Product-List)
