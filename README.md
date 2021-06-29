@@ -122,3 +122,12 @@
 48. [Distinct Numbers in Window](https://www.interviewbit.com/old/problems/distinct-numbers-in-window/)
 49. [LRU Cache](interviewbit.com/old/problems/lru-cache/)
 50. [N max pair combinations](https://www.interviewbit.com/old/problems/n-max-pair-combinations/)
+
+## Day-15
+29/06/21
+4 problems
+
+51. [Collecting Coins Sequel](https://binarysearch.com/problems/Collecting-Coins-Sequel)
+52. [Majority Vote](https://binarysearch.com/problems/Majority-Vote)
+53. [Trailing Zeros](https://binarysearch.com/problems/Trailing-Zeros)
+54. [Search for a Range](https://www.interviewbit.com/old/problems/search-for-a-range/)
