@@ -140,6 +140,6 @@
 4 problems
 
 57. [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)
-58. []()
+58. [Max Rectangle in Binary Matrix](https://www.interviewbit.com/old/problems/max-rectangle-in-binary-matrix/)
 59. []()
 60. []()
