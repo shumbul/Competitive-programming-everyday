@@ -1,6 +1,7 @@
 # Competitive-programming-everyday
 ### Phase - 1: 40 days, 60 programs
 ### Phase - 2: 29 days, 60 programs
+### Phase - 3: 21 days, 60 programs
 
 
 ## Day-1
@@ -133,3 +134,12 @@
 54. [Search for a Range](https://www.interviewbit.com/old/problems/search-for-a-range/)
 55. [First to Count to Target](https://binarysearch.com/problems/First-to-Count-to-Target)
 56. [Special Product List](https://binarysearch.com/problems/Special-Product-List)
+
+## Day-16
+01/07/21
+4 problems
+
+57. [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)
+58. []()
+59. []()
+60. []()
