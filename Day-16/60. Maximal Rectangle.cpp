@@ -1,10 +1,8 @@
-// Link - https://leetcode.com/problems/largest-rectangle-in-histogram/
-// Link - https://practice.geeksforgeeks.org/problems/maximum-rectangular-area-in-a-histogram-1587115620/1
+// Link - https://leetcode.com/problems/maximal-rectangle/
 // Author - Shumbul Arifa
 
 class Solution {
-public:
-	int largestRectangleArea(vector<int>& h) {
+	int MaxAreaHist(vector<int> h) {
 		stack<int> st;
 		int n = h.size();
 		if (n < 1)
@@ -39,5 +37,23 @@ public:
 			maxArea = max(area, maxArea);
 		}
 		return maxArea;
+	}
+public:
+	int maximalRectangle(vector<vector<char>>& A) {
+		if (A.size() == 0)
+			return 0;
+		if (A[0].size() == 0)
+			return 0;
+		int n11 = A.size(), n12 = A[0].size();
+		// not done using recursion, but using DP + max area histogram
+		vector<int> hist(n12, 0);
+		int ans = 0;
+		for (int i = 0; i < n11; i++) {
+			for (int j = 0; j < n12; j++) {
+				hist[j] = ((A[i][j] == '0') ? 0 : (hist[j] + 1));
+			}
+			ans = max(ans, MaxAreaHist(hist));
+		}
+		return ans;
 	}
 };

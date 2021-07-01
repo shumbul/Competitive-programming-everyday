@@ -141,5 +141,5 @@
 
 57. [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)
 58. [Max Rectangle in Binary Matrix](https://www.interviewbit.com/old/problems/max-rectangle-in-binary-matrix/)
-59. []()
-60. []()
+59. [Largest square formed in a matrix](https://practice.geeksforgeeks.org/problems/largest-square-formed-in-a-matrix0806/1)
+60. [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)
