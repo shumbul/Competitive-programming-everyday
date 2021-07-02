@@ -11,4 +11,5 @@
 
 1. [D. Deleting Divisors](https://codeforces.com/contest/1537/problem/D)
 2. [Minimize elements to be added for Subsequence](https://www.geeksforgeeks.org/minimize-elements-to-be-added-to-a-given-array-such-that-it-contains-another-given-array-as-its-subsequence/)
-3. []()
+3. [Count triplets with sum smaller than X](https://practice.geeksforgeeks.org/problems/count-triplets-with-sum-smaller-than-x5549/1)
+4. [Maximum sum increasing triplets](https://www.geeksforgeeks.org/find-maximum-sum-triplets-array-j-k-ai-aj-ak/)
