@@ -6,7 +6,7 @@ public:
 	int numDecodings(string s) {
 		// A char may be decoded alone or by pairing with the next char
 		int n = s.length();
-		if (n < 2)
+		if (n == 0)
 			return n;
 		vector<int> dp(n + 1, 0);
 		dp[n] = 1;  // base case
