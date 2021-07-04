@@ -16,9 +16,23 @@
 
 ## Day-02
 03/07/21
-4 problems
+3 problems
 
 5. [Stone Game](https://leetcode.com/problems/stone-game/)
 6. [Subsets](https://leetcode.com/problems/subsets/)
 7. [Subsets II](https://leetcode.com/problems/subsets-ii/)
-8. []()
+
+## Day-03
+04/07/21
+10 problems
+
+8. [Build Array from Permutation](https://leetcode.com/contest/weekly-contest-248/problems/build-array-from-permutation/)
+9. [Eliminate Maximum Number of Monsters](https://leetcode.com/contest/weekly-contest-248/problems/eliminate-maximum-number-of-monsters/)
+10. [Count Good Numbers](https://leetcode.com/contest/weekly-contest-248/problems/count-good-numbers/)
+11. [Sparse Arrays](https://www.hackerrank.com/challenges/sparse-arrays/problem)
+12. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+13. [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
+14. [Divisor Game](https://leetcode.com/problems/divisor-game/)
+15. [Stone Game II](https://leetcode.com/problems/stone-game-ii/)
+16. [Counting Bits](https://leetcode.com/problems/counting-bits/)
+17. [Decode Ways](https://leetcode.com/problems/decode-ways)
