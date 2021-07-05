@@ -36,3 +36,11 @@
 15. [Stone Game II](https://leetcode.com/problems/stone-game-ii/)
 16. [Counting Bits](https://leetcode.com/problems/counting-bits/)
 17. [Decode Ways](https://leetcode.com/problems/decode-ways)
+
+## Day-04
+05/07/21
+3 problems
+
+18. [Divisible by 10](https://www.hackerearth.com/challenges/competitive/google-interview-preparation/problems/9695be1c24944ca19c695c708976a403/)
+19. [Connected Components in a Graph](https://www.hackerearth.com/problem/algorithm/connected-components-in-a-graph/)
+20. [Is it a tree](https://www.spoj.com/problems/PT07Y/)
