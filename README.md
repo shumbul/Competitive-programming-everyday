@@ -54,3 +54,4 @@
 23. [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
 24. [Course Schedule](https://leetcode.com/problems/course-schedule/)
 25. [Evaluate Division](https://leetcode.com/problems/evaluate-division/)
+26. [Sqrt(x)](https://leetcode.com/problems/sqrtx/)
