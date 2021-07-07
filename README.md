@@ -41,6 +41,15 @@
 05/07/21
 3 problems
 
-18. [Divisible by 10](https://www.hackerearth.com/challenges/competitive/google-interview-preparation/problems/9695be1c24944ca19c695c708976a403/)
+18. [Divisible by 10](https://www.hackerearth.com/challenges/competitive/google-interview-preparation/problems/)
 19. [Connected Components in a Graph](https://www.hackerearth.com/problem/algorithm/connected-components-in-a-graph/)
 20. [Is it a tree](https://www.spoj.com/problems/PT07Y/)
+
+## Day-05
+07/07/21
+4 problems
+
+21. [Clone Graph](https://leetcode.com/problems/clone-graph/)
+22. [Job Scheduling - max number of jobs](https://hack.codingblocks.com/app/contests/2441)
+23. [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
+24. [Course Schedule](https://leetcode.com/problems/course-schedule/)
