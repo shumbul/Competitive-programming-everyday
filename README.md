@@ -47,7 +47,7 @@
 
 ## Day-05
 07/07/21
-5 problems
+6 problems
 
 21. [Clone Graph](https://leetcode.com/problems/clone-graph/)
 22. [Job Scheduling - max number of jobs](https://hack.codingblocks.com/app/contests/2441)
@@ -55,3 +55,9 @@
 24. [Course Schedule](https://leetcode.com/problems/course-schedule/)
 25. [Evaluate Division](https://leetcode.com/problems/evaluate-division/)
 26. [Sqrt(x)](https://leetcode.com/problems/sqrtx/)
+
+## Day-06
+10/07/21
+5 problems
+
+27. [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
