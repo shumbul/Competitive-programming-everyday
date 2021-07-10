@@ -61,3 +61,4 @@
 5 problems
 
 27. [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
+28. [Count Square Sum Triples](https://leetcode.com/contest/biweekly-contest-56/problems/count-square-sum-triples/)
