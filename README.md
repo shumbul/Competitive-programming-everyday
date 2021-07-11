@@ -58,7 +58,15 @@
 
 ## Day-06
 10/07/21
-5 problems
+2 problems
 
 27. [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
 28. [Count Square Sum Triples](https://leetcode.com/contest/biweekly-contest-56/problems/count-square-sum-triples/)
+
+## Day-07
+11/07/21
+3 problems
+
+29. [Arithmetic Square](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000435a5b/000000000077a3a5)
+30. [Sliding Window Maximum](https://www.interviewbit.com/old/problems/sliding-window-maximum/)
+31. [Gas Station](https://leetcode.com/problems/gas-station/)
