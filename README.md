@@ -65,8 +65,9 @@
 
 ## Day-07
 11/07/21
-3 problems
+4 problems
 
 29. [Arithmetic Square](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000435a5b/000000000077a3a5)
 30. [Sliding Window Maximum](https://www.interviewbit.com/old/problems/sliding-window-maximum/)
 31. [Gas Station](https://leetcode.com/problems/gas-station/)
+32. [Least Common Ancestor](https://www.interviewbit.com/old/problems/least-common-ancestor/)
