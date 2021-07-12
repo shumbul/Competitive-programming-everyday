@@ -71,3 +71,12 @@
 30. [Sliding Window Maximum](https://www.interviewbit.com/old/problems/sliding-window-maximum/)
 31. [Gas Station](https://leetcode.com/problems/gas-station/)
 32. [Least Common Ancestor](https://www.interviewbit.com/old/problems/least-common-ancestor/)
+
+## Day-08
+12/07/21
+4 problems
+
+33. [Median of Array](https://www.interviewbit.com/old/problems/median-of-array/)
+34. [House Robber III](https://leetcode.com/problems/house-robber-iii/)
+35. [House Robber II](https://leetcode.com/problems/house-robber-ii/)
+36. [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)
