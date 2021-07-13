@@ -81,3 +81,18 @@
 35. [House Robber II](https://leetcode.com/problems/house-robber-ii/)
 36. [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)
 37. [Container With Most Water](https://www.interviewbit.com/old/problems/container-with-most-water/)
+
+## Day-09
+13/07/21
+10 problems
+
+38. [Majority Element](https://www.interviewbit.com/old/problems/majority-element/)
+39. [Rotated Sorted Array Search](https://www.interviewbit.com/old/problems/rotated-sorted-array-search/)
+40. [Repetitions](https://cses.fi/problemset/task/1069/)
+41. [Increasing Array](https://cses.fi/problemset/task/1094)
+42. [Permutations](https://cses.fi/problemset/task/1070)
+43. [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)
+44. [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)
+45. [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
+46. [Number Spiral](https://cses.fi/problemset/task/1071/)
+47. [Two Knights](https://cses.fi/problemset/task/1072/)
