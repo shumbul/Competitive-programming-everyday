@@ -96,3 +96,12 @@
 45. [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
 46. [Number Spiral](https://cses.fi/problemset/task/1071/)
 47. [Two Knights](https://cses.fi/problemset/task/1072/)
+
+
+## Day-10
+14/07/21
+3 problems
+
+48. [Two Sets](https://cses.fi/problemset/task/1092)
+49. [Bit Strings](https://cses.fi/problemset/task/1617)
+50. [Trailing Zeros](https://cses.fi/problemset/submit/1618/)
