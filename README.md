@@ -108,6 +108,14 @@
 
 ## Day-11
 20/07/21
-1 problem
+2 problem
 
 51. [Coin Piles](https://cses.fi/problemset/task/1754)
+52. [Palindrome Reorder](https://cses.fi/problemset/task/1755)
+
+## Day-12
+23/07/21
+2 problem
+
+53. [Creating Strings](https://cses.fi/problemset/task/1622)
+54. []()
