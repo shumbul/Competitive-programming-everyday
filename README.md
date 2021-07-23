@@ -118,4 +118,4 @@
 2 problem
 
 53. [Creating Strings](https://cses.fi/problemset/task/1622)
-54. []()
+54. [Apple Division](https://cses.fi/problemset/task/1623)
