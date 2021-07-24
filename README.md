@@ -2,7 +2,7 @@
 ### Phase - 1: 40 days, 60 programs
 ### Phase - 2: 29 days, 60 programs
 ### Phase - 3: 21 days, 60 programs
-### Phase - 4: 18 days, 60 programs
+### Phase - 4: 23 days, 60 programs
 
 
 ## Day-01
@@ -108,14 +108,25 @@
 
 ## Day-11
 20/07/21
-2 problem
+2 problems
 
 51. [Coin Piles](https://cses.fi/problemset/task/1754)
 52. [Palindrome Reorder](https://cses.fi/problemset/task/1755)
 
 ## Day-12
 23/07/21
-2 problem
+2 problems
 
 53. [Creating Strings](https://cses.fi/problemset/task/1622)
 54. [Apple Division](https://cses.fi/problemset/task/1623)
+
+## Day-13
+24/07/21
+6 problems
+
+55. [Distinct Numbers](https://cses.fi/problemset/task/1621)
+56. [Apartments](https://cses.fi/problemset/result/2565500/)
+57. [Ferris Wheel](https://cses.fi/problemset/task/1090)
+58. [Dice Combinations](https://cses.fi/problemset/task/1633)
+59. [Book Shop](https://cses.fi/problemset/task/1158/)
+60. [Course Schedule](https://cses.fi/problemset/task/1679)
