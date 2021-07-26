@@ -15,8 +15,12 @@
 
 ## Day-02
 26/07/21
-3 problems
+7 problems
 
 4. [Range Minimum Query](https://www.spoj.com/problems/RMQSQ/)
 5. [Help Ashu](https://www.hackerearth.com/practice/data-structures/advanced-data-structures/fenwick-binary-indexed-trees/practice-problems/algorithm/help-ashu-1/)
 6. [Multiples of 3](https://www.codechef.com/problems/MULTQ3)
+7. [A. Subsequence Permutation](https://codeforces.com/contest/1552/problem/A)
+8. [B. I Hate 1111](https://codeforces.com/contest/1526/problem/B)
+9. [D. Buying Shovels](https://codeforces.com/contest/1360/problem/D)
+10. [A. Digits Sum](https://codeforces.com/contest/1553/problem/A)
