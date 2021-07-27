@@ -24,3 +24,11 @@
 8. [B. I Hate 1111](https://codeforces.com/contest/1526/problem/B)
 9. [D. Buying Shovels](https://codeforces.com/contest/1360/problem/D)
 10. [A. Digits Sum](https://codeforces.com/contest/1553/problem/A)
+
+## Day-03
+27/07/21
+3 problems
+
+11. [C. Friends and Gifts](https://codeforces.com/contest/1283/problem/C)
+12. [B. Running for Gold](https://codeforces.com/contest/1552/problem/B)
+13. [A. Polycarp and Coins](https://codeforces.com/contest/1551/problem/A)
