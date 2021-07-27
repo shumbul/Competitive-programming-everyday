@@ -27,8 +27,9 @@
 
 ## Day-03
 27/07/21
-3 problems
+4 problems
 
 11. [C. Friends and Gifts](https://codeforces.com/contest/1283/problem/C)
 12. [B. Running for Gold](https://codeforces.com/contest/1552/problem/B)
 13. [A. Polycarp and Coins](https://codeforces.com/contest/1551/problem/A)
+14. [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
