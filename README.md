@@ -33,3 +33,15 @@
 12. [B. Running for Gold](https://codeforces.com/contest/1552/problem/B)
 13. [A. Polycarp and Coins](https://codeforces.com/contest/1551/problem/A)
 14. [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
+
+## Day-04
+28/07/21
+7 problems
+
+15. [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)
+16. [Number of Provinces](https://leetcode.com/problems/number-of-provinces/)
+17. [Shortest Bridge](https://leetcode.com/problems/shortest-bridge/)
+18. [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)
+19. [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)
+20. [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)
+21. [Word Ladder](https://leetcode.com/problems/word-ladder/)
