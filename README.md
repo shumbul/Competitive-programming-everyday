@@ -45,3 +45,10 @@
 19. [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)
 20. [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)
 21. [Word Ladder](https://leetcode.com/problems/word-ladder/)
+
+## Day-05
+29/07/21
+2 problems
+
+22. [C. Boboniu and Bit Operations](https://codeforces.com/contest/1395/problem/C)
+23. [Count primes using digits](https://www.geeksforgeeks.org/count-all-prime-numbers-that-can-be-formed-using-digits-of-a-given-number/)
