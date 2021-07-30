@@ -52,3 +52,13 @@
 
 22. [C. Boboniu and Bit Operations](https://codeforces.com/contest/1395/problem/C)
 23. [Count primes using digits](https://www.geeksforgeeks.org/count-all-prime-numbers-that-can-be-formed-using-digits-of-a-given-number/)
+
+## Day-06
+30/07/21
+5 problems
+
+24. [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)
+25. [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)
+26. [Nearest Smaller Element](https://www.interviewbit.com/old/problems/nearest-smaller-element/)
+27. [Stock span problem](https://practice.geeksforgeeks.org/problems/stock-span-problem-1587115621/1#)
+28. [Largest Rectangle in Histogram](https://www.interviewbit.com/old/problems/largest-rectangle-in-histogram/)
