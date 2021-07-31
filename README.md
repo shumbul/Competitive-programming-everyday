@@ -62,3 +62,11 @@
 26. [Nearest Smaller Element](https://www.interviewbit.com/old/problems/nearest-smaller-element/)
 27. [Stock span problem](https://practice.geeksforgeeks.org/problems/stock-span-problem-1587115621/1#)
 28. [Largest Rectangle in Histogram](https://www.interviewbit.com/old/problems/largest-rectangle-in-histogram/)
+
+## Day-07
+31/07/21
+3 problems
+
+29. [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)
+30. [Rain Water Trapped](https://www.interviewbit.com/old/problems/rain-water-trapped/)
+31. [Min Stack](https://leetcode.com/problems/min-stack/)
