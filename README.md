@@ -70,3 +70,12 @@
 29. [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)
 30. [Rain Water Trapped](https://www.interviewbit.com/old/problems/rain-water-trapped/)
 31. [Min Stack](https://leetcode.com/problems/min-stack/)
+
+## Day-08
+01/08/21
+4 problems
+
+32. [First non-repeating characters](https://www.interviewbit.com/old/problems/first-non-repeating-character-in-a-stream-of-characters/)
+33. [MAXSPPROD](https://www.interviewbit.com/problems/maxspprod/)
+34. [Simplify Path](https://leetcode.com/problems/simplify-path/)
+35. [Redundant Braces](https://www.interviewbit.com/old/problems/redundant-braces/)
