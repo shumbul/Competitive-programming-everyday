@@ -1,4 +1,4 @@
-// Link - https://www.interviewbit.com/old/problems/redundant-braces/
+// Link - https://www.interviewbit.com/old/problems/redundant-braces
 // Author - Shumbul Arifa
 
 int Solution::braces(string A) {
