@@ -82,10 +82,11 @@
 
 ## Day-09
 04/08/21
-5 problems
+6 problems
 
 36. [Reunion of 1's](https://www.hackerearth.com/practice/data-structures/disjoint-data-strutures/basics-of-disjoint-data-structures/practice-problems/algorithm/reunion-of-1s-1b5bd063/)
 37. [Minimum Cost of ropes](https://practice.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1#)
 38. [D. Caesar's Legions](https://codeforces.com/problemset/problem/118/D)
 39. [Power of Two](https://leetcode.com/problems/power-of-two/)
 40. [D. Flowers](https://codeforces.com/problemset/problem/474/D)
+41. [C. Longest Regular Bracket Sequence](https://codeforces.com/problemset/problem/5/C)
