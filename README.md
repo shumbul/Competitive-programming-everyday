@@ -90,3 +90,12 @@
 39. [Power of Two](https://leetcode.com/problems/power-of-two/)
 40. [D. Flowers](https://codeforces.com/problemset/problem/474/D)
 41. [C. Longest Regular Bracket Sequence](https://codeforces.com/problemset/problem/5/C)
+
+## Day-10
+05/08/21
+4 problems
+
+42. [E. Let's Go Rolling!](https://codeforces.com/problemset/problem/38/E)
+43. [Sum of Digits](https://www.spoj.com/problems/CPCRC1C/)
+44. [Digit Sum k](https://www.youtube.com/watch?v=L1ZC9MI5yhY)
+45. [Digit Frequency k](https://www.youtube.com/watch?v=L1ZC9MI5yhY)
