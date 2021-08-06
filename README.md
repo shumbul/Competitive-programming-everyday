@@ -99,3 +99,10 @@
 43. [Sum of Digits](https://www.spoj.com/problems/CPCRC1C/)
 44. [Digit Sum k](https://www.youtube.com/watch?v=L1ZC9MI5yhY)
 45. [Digit Frequency k](https://www.youtube.com/watch?v=L1ZC9MI5yhY)
+
+## Day-11
+06/08/21
+2 problems
+
+46. [Olympics Ranking](https://www.codechef.com/AUG21C/problems/OLYRANK)
+47. [Problem Difficulties](https://www.codechef.com/AUG21C/problems/PROBDIFF)
