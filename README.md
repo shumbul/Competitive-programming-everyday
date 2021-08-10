@@ -106,3 +106,10 @@
 
 46. [Olympics Ranking](https://www.codechef.com/AUG21C/problems/OLYRANK)
 47. [Problem Difficulties](https://www.codechef.com/AUG21C/problems/PROBDIFF)
+
+## Day-12
+09/08/21
+2 problems
+
+48. [Check If String Is a Prefix of Array](https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/)
+49. [Remove Stones to Minimize the Total](https://leetcode.com/problems/remove-stones-to-minimize-the-total/)
