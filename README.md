@@ -113,3 +113,12 @@
 
 48. [Check If String Is a Prefix of Array](https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/)
 49. [Remove Stones to Minimize the Total](https://leetcode.com/problems/remove-stones-to-minimize-the-total/)
+
+## Day-13
+13/08/21
+4 problems
+
+50. [Set Matrix Zeroes](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge-2021/614/week-2-august-8th-august-14th/3888/)
+51. [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
+52. [Reverse Integer](https://leetcode.com/problems/reverse-integer/)
+53. [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)
