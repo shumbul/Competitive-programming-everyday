@@ -3,7 +3,7 @@
 ### Phase - 2: 29 days, 60 programs
 ### Phase - 3: 21 days, 60 programs
 ### Phase - 4: 23 days, 60 programs
-### Phase - 5:
+### Phase - 5: 
 
 ## Day-01
 25/07/21
@@ -122,3 +122,15 @@
 51. [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
 52. [Reverse Integer](https://leetcode.com/problems/reverse-integer/)
 53. [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)
+
+## Day-14
+14/08/21
+7 problems
+
+54. [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/)
+55. [Sum of Nodes with Even-Valued Grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/)
+56. [Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/)
+57. [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/)
+58. [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)
+59. [All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/)
+60. [Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/)
