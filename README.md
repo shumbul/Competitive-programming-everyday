@@ -22,3 +22,11 @@
 4. [Longest Substring Without Repeat](https://www.interviewbit.com/old/problems/longest-substring-without-repeat/)
 5. [Square Root of Integer](https://www.interviewbit.com/old/problems/square-root-of-integer/)
 6. [First Index](https://www.interviewbit.com/old/problems/first-index/?ref=similar_problems)
+
+## Day-03
+20/08/21
+3 problems
+
+7. [International Day of Yoga](https://www.codechef.com/problems/RAMDEV)
+8. [BUSYMAN - I AM VERY BUSY](https://www.spoj.com/STCBASIC/problems/BUSYMAN/)
+9. [Largest square formed in a matrix](https://practice.geeksforgeeks.org/problems/largest-square-formed-in-a-matrix0806/1)
