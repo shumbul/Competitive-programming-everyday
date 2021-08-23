@@ -33,7 +33,13 @@
 
 ## Day-04
 23/08/21
-4 problems
+8 problems
 
 10. [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/)
 11. [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/)
+12. [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)
+13. [N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)
+14. [Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/)
+15. [Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/)
+16. [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)
+17. [Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/)
