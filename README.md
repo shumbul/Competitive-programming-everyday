@@ -30,3 +30,10 @@
 7. [International Day of Yoga](https://www.codechef.com/problems/RAMDEV)
 8. [BUSYMAN - I AM VERY BUSY](https://www.spoj.com/STCBASIC/problems/BUSYMAN/)
 9. [Largest square formed in a matrix](https://practice.geeksforgeeks.org/problems/largest-square-formed-in-a-matrix0806/1)
+
+## Day-04
+23/08/21
+4 problems
+
+10. [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/)
+11. [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/)
