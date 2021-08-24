@@ -43,3 +43,11 @@
 15. [Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/)
 16. [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)
 17. [Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/)
+
+## Day-05
+24/08/21
+3 problems
+
+18. [Baseball Game](https://leetcode.com/problems/baseball-game/)
+19. [The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/)
+20. [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)
