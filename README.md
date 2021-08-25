@@ -66,3 +66,17 @@
 28. [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)
 29. [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
 30. [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)
+
+## Day-07
+26/08/21
+9 problems
+
+31. [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)
+32. [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)
+33. [Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/)
+34. [Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)
+35. [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+36. [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
+37. [Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/)
+38. [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
+39. [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/)
