@@ -92,3 +92,11 @@
 44. [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)
 45. [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)
 46. [Get Maximum in Generated Array](https://leetcode.com/problems/get-maximum-in-generated-array/)
+
+## Day-09
+28/08/21
+3 problems
+
+47. [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+48. [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
+49. [Flipping an Image](https://leetcode.com/problems/flipping-an-image/)
