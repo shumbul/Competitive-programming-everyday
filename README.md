@@ -80,3 +80,15 @@
 37. [Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/)
 38. [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
 39. [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/)
+
+## Day-08
+27/08/21
+8 problems
+
+40. [Counting Bits](https://leetcode.com/problems/counting-bits/)
+41. [Divisor Game](https://leetcode.com/problems/divisor-game/)
+42. [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
+43. [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)
+44. [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)
+45. [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)
+46. [Get Maximum in Generated Array](https://leetcode.com/problems/get-maximum-in-generated-array/)
