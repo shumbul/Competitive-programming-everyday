@@ -4,7 +4,7 @@
 ### Phase - 3: 21 days, 60 programs
 ### Phase - 4: 23 days, 60 programs
 ### Phase - 5: 21 days, 60 programs
-### Phase - 6: 
+### Phase - 6: 14 days, 60 programs
 
 
 ## Day-01
@@ -101,3 +101,18 @@
 48. [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
 49. [Flipping an Image](https://leetcode.com/problems/flipping-an-image/)
 50. [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)
+
+## Day-10
+30/08/21
+10 problems
+
+51. [Get Maximum in Generated Array](https://leetcode.com/problems/get-maximum-in-generated-array/)
+52. [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)
+53. [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
+54. [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)
+55. [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
+56. [Design HashSet](https://leetcode.com/problems/design-hashset/)
+57. [Design HashMap](https://leetcode.com/problems/design-hashmap/)
+58. [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
+59. [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
+60. [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
