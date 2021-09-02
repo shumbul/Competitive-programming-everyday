@@ -30,7 +30,7 @@
 
 ## Day-03
 02/09/21
-7 problems
+8 problems
 
 11. [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/)
 12. [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
@@ -39,4 +39,4 @@
 15. [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)
 16. [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/)
 17. [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)
-
+18. [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)
