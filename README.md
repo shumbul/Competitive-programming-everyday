@@ -27,3 +27,16 @@
 8. [Linked List Components](https://leetcode.com/problems/linked-list-components/)
 9. [Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/)
 10. [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)
+
+## Day-03
+02/09/21
+7 problems
+
+11. [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/)
+12. [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
+13. [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)
+14. [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)
+15. [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)
+16. [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/)
+17. [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)
+
