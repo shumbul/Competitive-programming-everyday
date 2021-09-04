@@ -40,3 +40,16 @@
 16. [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/)
 17. [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)
 18. [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)
+
+## Day-04
+03/09/21
+7 problems
+
+19. [Global and Local Inversion](https://leetcode.com/problems/global-and-local-inversions/)
+20. [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)
+21. [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/)
+22. [Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/)
+23. [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)
+24. [Height Checker](https://leetcode.com/problems/height-checker/)
+25. [Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/)
+26. [The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/)
