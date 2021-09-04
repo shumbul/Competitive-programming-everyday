@@ -53,3 +53,11 @@
 24. [Height Checker](https://leetcode.com/problems/height-checker/)
 25. [Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/)
 26. [The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/)
+
+## Day-05
+04/09/21
+3 problems
+
+27. [Carvans](https://www.codechef.com/problems/CARVANS)
+28. [Count Substrings](https://www.codechef.com/problems/CSUB)
+29. [Operations on Tree](https://leetcode.com/problems/operations-on-tree/)
