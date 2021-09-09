@@ -61,3 +61,17 @@
 27. [Carvans](https://www.codechef.com/problems/CARVANS)
 28. [Count Substrings](https://www.codechef.com/problems/CSUB)
 29. [Operations on Tree](https://leetcode.com/problems/operations-on-tree/)
+
+## Day-06
+08/09/21
+9 problems
+
+30. [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
+31. [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)4
+32. [Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/)
+33. [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)
+34. [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
+35. [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
+36. [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)
+37. [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)
+38. [Path Sum](https://leetcode.com/problems/path-sum/)
