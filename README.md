@@ -75,3 +75,11 @@
 36. [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)
 37. [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)
 38. [Path Sum](https://leetcode.com/problems/path-sum/)
+
+## Day-07
+09/09/21
+3 problems
+
+39. [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
+40. [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)
+41. [Partition List](https://leetcode.com/problems/partition-list/)
