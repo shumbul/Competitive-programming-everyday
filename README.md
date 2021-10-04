@@ -5,7 +5,7 @@
 ### Phase - 4: 23 days, 60 programs
 ### Phase - 5: 21 days, 60 programs
 ### Phase - 6: 14 days, 60 programs
-### Phase - 7: 
+### Phase - 7: 14 days, 60 programs
 
 
 ## Day-01
@@ -83,3 +83,33 @@
 39. [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
 40. [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)
 41. [Partition List](https://leetcode.com/problems/partition-list/)
+
+## Day-08
+13/09/21
+9 problems
+
+42. [The k-th Lexicographical String of All Happy Strings of Length n](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/)
+43. [Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/)
+44. [Is Subsequence](https://leetcode.com/problems/is-subsequence/)
+45. [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
+46. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+47. [ All Possible Full Binary Trees](https://leetcode.com/problems/all-possible-full-binary-trees/)
+48. [Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/)
+49. [Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/)
+50. [Count Substrings That Differ by One Character](https://leetcode.com/problems/count-substrings-that-differ-by-one-character/)
+
+## Day-09
+15/09/21
+10 problems
+
+51. [Count Number of Teams](https://leetcode.com/problems/count-number-of-teams/)
+52. [Sort Integers by The Power Value](https://leetcode.com/problems/sort-integers-by-the-power-value/)
+53. [Number of Good Ways to Split a String](https://leetcode.com/problems/number-of-good-ways-to-split-a-string/)
+54. [Collecting Coins Sequel](https://binarysearch.com/problems/Collecting-Coins-Sequel)
+55. [Special Product List](https://binarysearch.com/problems/Special-Product-List)
+56. [Trailing Zeros](https://binarysearch.com/problems/Trailing-Zeros)
+57. [Count Nodes in Complete Binary Tree
+](https://binarysearch.com/problems/Count-Nodes-in-Complete-Binary-Tree)
+58. [Shortest Common Supersequence](https://binarysearch.com/problems/Shortest-Common-Supersequence)
+59. [Count Substrings With All 1s](https://binarysearch.com/problems/Count-Substrings-With-All-1s)
+60. [Partition String](https://binarysearch.com/problems/Partition-String)
