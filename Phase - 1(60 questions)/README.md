@@ -9,7 +9,7 @@
 2. [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 3. [Permutations](https://leetcode.com/problems/permutations/)
 4. [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
-5. [Generate Parentheses](https://leetcode.com/problems/binary-tree-inorder-traversal/)
+5. [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
 
 ## Day-2
 01/04/21
